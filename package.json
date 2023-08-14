@@ -1,0 +1,16 @@
+{
+  "name": "eb-sqs-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@aws-sdk/client-eventbridge": "^3.385.0",
+    "serverless-apigateway-service-proxy": "^2.2.1"
+  }
+}
